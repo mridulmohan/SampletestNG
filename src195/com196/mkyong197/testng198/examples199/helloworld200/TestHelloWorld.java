@@ -9,7 +9,7 @@ public class TestHelloWorld {
 	@Test()
 	public void testEmailGenerator() {
 
-	System.out.println("Sample");
+	System.out.println("Sample updated");
 	}
 
 }
